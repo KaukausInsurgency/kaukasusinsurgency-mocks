@@ -1,0 +1,9 @@
+KI:GameTime:6		- Time Remaining in seconds
+KI:GameStatus:6		- Status of server (Online/Offline/Restarting)
+KI:OP:6				- Online Players - JSON
+KI:CP:6				- Capture Points - JSON
+KI:Depot:6			- Depots - JSON
+KI:SM:6				- Side Missions - JSON
+KI:Chat:6			- Chat Messages (maybe make this a hash set with a upper limit?)
+KI:Events:6			- Mission Events 
+KI:
